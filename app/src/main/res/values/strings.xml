@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">passwordList</string>
+    <string name="password_name">Password</string>
 </resources>
